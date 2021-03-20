@@ -1,0 +1,83 @@
+{
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true,
+  "breadcrumbs.enabled": true,
+  "editor.fontFamily": "Dank Mono, Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12,
+  "editor.detectIndentation": true,
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 80,
+  "explorer.confirmDelete": true,
+  "explorer.confirmDragAndDrop": false,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.idea": true,
+    "**/.svn": true,
+    "**/.vscode": false,
+    "**/tmp": true,
+    "**/yarn.lock": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true,
+    "**/tmp": true
+  },
+  "prettier.bracketSpacing": true,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 90,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "search.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/android": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/ios": true,
+    "**/node_modules": true,
+    "**/tmp": true
+  },
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontFamily": "Inconsolata for Powerline",
+  "terminal.integrated.fontSize": 12,
+  "window.zoomLevel": 0,
+  "files.associations": {
+    "*.sh": "shellscript"
+  },
+  "editor.minimap.enabled": false,
+  "editor.suggestSelection": "first",
+  "workbench.startupEditor": "newUntitledFile",
+  "eslint.alwaysShowStatus": true,
+  "eslint.run": "onSave",
+  "eslint.nodePath": "/usr/local/lib/node_modules/",
+  "eslint.options": {
+    "configFile": "/Users/roccosada/.eslintrc"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact"
+  ],
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.editor.showTabs": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.lintTask.enable": true,
+  "workbench.colorTheme": "SynthWave '84",
+  "workbench.sideBar.location": "left",
+  "workbench.iconTheme": "vscode-icons",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "synthwave84.brightness": 0.8,
+  "editor.renderIndentGuides": true,
+  "files.autoSave": "on",
+  "editor.formatOnSave": true
+}
